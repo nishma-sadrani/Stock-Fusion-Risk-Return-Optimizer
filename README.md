@@ -1,1 +1,3 @@
 # Stock-Fusion-Risk-Return-Optimizer
+
+Developed a comprehensive Python-based financial analysis tool designed to retrieve historical stock data from Yahoo Finance. This tool performs an in-depth analysis to determine the optimal investment distribution across three user-selected stocks, aiming to maximize returns while minimizing associated risks. It calculates the **Sharpe ratio**, a key financial metric, to evaluate the risk-adjusted return of the investment portfolio. Additionally, the tool provides personalized stock allocation recommendations based on the user's defined preferences for return expectations and risk tolerance, ensuring that the portfolio aligns with their financial goals.
